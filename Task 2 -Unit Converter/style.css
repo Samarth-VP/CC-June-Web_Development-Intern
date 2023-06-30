@@ -44,7 +44,6 @@ h1 {
 .conversion select {
   appearance: none;
   background-color: #fff;
-  background-image: url("arrow.png");
   background-repeat: no-repeat;
   background-position: right 10px center;
   padding-right: 35px;
